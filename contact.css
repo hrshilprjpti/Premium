@@ -48,15 +48,15 @@ img {
 .title
 {
 	position: absolute;
-	top: 50%;
-	left: 45%;
+	top: 40%;
+	left: 25%;
 	transform: translate(-50%,-50%)
 }
 .title h1
 {
 	color:#fff;
 	font-family:Algerian;
-	font-size:35px
+	font-size:30px
 }
 .btn
 {
