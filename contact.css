@@ -48,7 +48,7 @@ img {
 .title
 {
 	position: absolute;
-	top: 50%;
+	top: 40%;
 	left: 35%;
 	transform: translate(-50%,-50%)
 }
@@ -76,7 +76,7 @@ img {
 .centerdiv
 {
 	position: absolute;
-	top: 45%;
+	top: 40%;
 	left: 30%;
 	transform: translate(-50%,-50%)
 }
