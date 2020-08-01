@@ -49,23 +49,24 @@ img {
 {
 	position: absolute;
 	top: 40%;
-	left: 25%;
+	left: 30%;
 	transform: translate(-50%,-50%)
 }
 .title h1
 {
 	color:#fff;
 	font-family:Algerian;
-	font-size:30px
+	font-size:400%
 }
 .btn
 {
 
 	border: 1px solid #fff;
-	padding: 10px 30px;
+	padding: 30px 90px;
 	color:#fff;
 	text-decoration:none;
 	transition: 0.8s ease;
+	font-size:120%
 }
 .btn:hover
 {
@@ -76,18 +77,18 @@ img {
 {
 	position: absolute;
 	top: 40%;
-	left: 25%;
+	left: 35%;
 	transform: translate(-50%,-50%)
 }
 .title h4
 {
 	color:#fff;
 	font-family:Comic Sans MS;
-	font-size:15px
+	font-size:100%
 }
 .centerdiv h1
 {
 	color:#fff;
 	font-family:Comic Sans MS;
-	font-size:25px
+	font-size:200%
 }
