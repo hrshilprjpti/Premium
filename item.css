@@ -1,0 +1,86 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:Century Gothic;
+	font-weigt:bold;
+	font-color:black
+	
+}
+body{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("b.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	background-position: center;
+}
+ul{
+	float: right;
+	list-style-type: none;
+	font-size: 200%;
+	
+}
+ul li {
+	display: inline-table;
+}
+ul li a {
+	text-decoration: none;
+	color: #fff;
+	font-weight:normal;
+	padding:15px 45px;
+	border: 1px solid transparent;
+	transition: 0.8s ease
+}
+ul li a:hover
+{
+	background-color: #fff;
+	color: #000;
+}
+ul li.active a
+{
+	background-color: #fff;
+	color: #000;
+}
+
+img {
+	float:left;
+	width: 150px;
+	height: 100px
+}
+.centerdiv
+{
+	position: absolute;
+	top: 40%;
+	left: 25%;
+	transform: translate(-50%,-50%)
+}
+.title
+{
+	position: absolute;
+	top: 40%;
+	left: 35%;
+	transform: translate(-50%,-50%)
+}
+.title h1
+{
+	color:#fff;
+	font-family:Algerian;
+	font-size:200%
+}
+
+.title h2
+{
+	color:#fff;
+	font-family:Comic Sans MS;
+	font-size:150%
+}
+.title h3
+{
+	color:#fff;
+	font-family:Comic Sans MS;
+	font-size:150%
+}
+.title h4
+{
+	color:#fff;
+	font-family:Comic Sans MS;
+	font-size:100%
+}
